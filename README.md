@@ -1,2 +1,8 @@
 # GEOG18
-GEOG 18.01 Climate Extremes
+GEOG 18.01 Climate Extremes Course Materials 
+
+This is where the JupyterHub problem sets are commited to Discovery from github and vice versa. This directory contains practicals and problem sets and tutorials.
+
+Justin Mankin, 2023
+
+Updated 3/15/23
