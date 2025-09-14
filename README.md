@@ -5,4 +5,4 @@ This is where the JupyterHub problem sets are commited to Discovery from github 
 
 Justin Mankin, 2025
 
-Updated 1/7/25
+Updated 9/14/25
